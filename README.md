@@ -54,8 +54,22 @@ This project focuses on analyzing data using Excel/Power BI by creating multiple
 ** 5: Sales Trends & Forecasting**
 •	Shows historical sales trends over time.
 •	Provides forecasts for upcoming months/quarters.
-
-
-
 •	Helps management plan future sales strategies and targets.
+
+
+**Dataset used**
+
+<ahttps://github.com/Pawan-rd-2005/Saales-analysis-dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx> Excel file </a>
+
+<ahttp://github.com/Pawan-rd-2005/Saales-analysis-dashboard/blob/main/New%20sales%20chart%20.pbix> Power bi file </a>
+
+
+**About the Author**
+Pawan is the creator of this Sales Dashboard project in Power BI. With a keen interest in data analysis and visualization, Pawan focuses on transforming raw data into meaningful insights that support business decision-making. The project reflects skills in data cleaning, modeling, DAX calculations, and dashboard design.
+Pawan’s objective is to use analytical thinking and visualization tools like Power BI to present complex information in a simple and interactive way, helping organizations improve their sales strategies and performance.
+
+**© 2025 Pawan. All Rights Reserved.
+This project and its contents are the intellectual property of the author. No part of this work may be reproduced, distributed, or used without prior permission.**
+
+
 
