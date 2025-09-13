@@ -59,9 +59,9 @@ This project focuses on analyzing data using Excel/Power BI by creating multiple
 
 **Dataset used**
 
-- <ahttps://github.com/Pawan-rd-2005/Saales-analysis-dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx> Excel file </a>
+- <a https://github.com/Pawan-rd-2005/Saales-analysis-dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx> Excel file </a>
 
-- <ahttp://github.com/Pawan-rd-2005/Saales-analysis-dashboard/blob/main/New%20sales%20chart%20.pbix> Power bi file </a>
+- <a https://github.com/Pawan-rd-2005/Saales-analysis-dashboard/blob/main/New%20sales%20chart%20.pbix> Power bi file </a>
 
 
 **About the Author**
